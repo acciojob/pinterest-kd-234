@@ -1,13 +1,15 @@
 /*  your css code here. If applicable */
 
 .hero{
+	border:1px solid transparent;
+	
 	display:flex;
 	justify-content:center;
 	align-items:center;
 }
 
 .image{
-	border:1px solid transparent;
+	
 	
 	width:600px;
 	height:400px;
